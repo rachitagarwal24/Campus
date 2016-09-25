@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-729b543b9cafb507616d0aec25773e0571416429.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-28d017afe719252474a398ecc75c1f0fc9350432.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-af11cb0b9a258d8b1632e9ee70ea49963f9b2254.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-443b8bf0d3d6fd4f5a28f439a2344d8a47a1c479.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-3edee376c39f4326bc5307114dd465dbe13bdebb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-f149d567725e500310cd1b408f3c5abadeb751a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-99c3ee2d754b5ccd4eb3a2fffd88f67d5ff3370d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-d8c227b5b963a1fdee3b5b7778dfae1ace586ac2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-b86f492e6872220494c1de11d9dada28d7b9af7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-ab3de0f7e9c17dd4b473622c567711e6bcd73f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-1fbff5191b9be4ca3a5937c0b4600f66f5060eda.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-6930faddd64598d9221cbea2b7779bfcb7ccff47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-3d7248bc196975ff384749531630748cd6db4d35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-d60ac67eee42afcafea9878a1a861e736c1e1ee3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-31e1881e273f4e921169db7f2dfbffd303d6a117.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-df6c620c0b1542a677ba5482ee3f8f77e1576748.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-1a89968f21f30f12a27d081e5a3d8c19068c94a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-80ea7aa5320c1e305fda6b8ea900674c8a06e223.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-a114c79f8d6f67675e7c35e90b24aae53587e277.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-dc9f2bc4fe383bcc31b061d77b5ea2d8f5058dac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-a7ad163a09f1bc0772ac4224288e69ec032c29b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-bb8fcb5771aebc87cd4f43877569734ac67141f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-d51bb79b5467a4e86d1126e23059746fd9e45720.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-84247783d17fa2610b142d732cccfe9ee8a0d896.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-acd0cd63e461abd947188231bb3ee1315b98a68d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-2d2436d99a0c7f3b506e4c626098f054423c2b65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-d21cf175be8ff748587f085456cd450017ef183c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-585093156a0ebd353de55b6fff5e2d6029c0937d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-03e94bd74e5ce1ac23bed8bccc8f1e141b847bf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-70e9643eb9e7e98d482b7156b6436f9e5f82de59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-01670b0f7801126f2808e662733e7dd134246964.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-632f5d2d08f21fec4247c14ba9384ddff13ef90c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-5e56c4c8529747347f548a9378197cdccef5d1bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-06b626cd66ae34e3392320008aed516a099786b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-1200e71ee2deab3072b7f425a2728ab203d9eb31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-d66a7ded954b3be0ac93f70422a88d143238eadc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-edc36ad94725c25d9baf2ed851934af8a7410c49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-c2122344e8b734d05434207d18cde4c090984dc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-b4602bf8269b24e746bb0d7b96402e46548d7b09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-db95abaa704b695c1ca2adc7647b165500a70609.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-cfd3c6609b784d1a68d52726c5cf9ac75f8a5b1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-24f2c06e39464bd908285325d984f1d803d2dd8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-76165497fa9cef15cd17043d0e424e7110d40b63.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-5b242773ba1f74e3075f4ac15bdd0b7cb47fa333.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\Rachit agarwal\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\classes-7793490d9edc43ddc28592b0fba43f89a6f0e6af.jar" />
+    </item>
+
+</items>
